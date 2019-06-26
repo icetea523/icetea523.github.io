@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: icetea523@qq.com
 description: "12345上山打老虎"
 keyword: "IceTea, Tea, 振海的博客, wanzhenhai, 万振海, java, vue"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://icetea523.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
