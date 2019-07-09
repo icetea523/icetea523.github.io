@@ -1,6 +1,6 @@
 # Site settings
 title: IceTea Blog
-SEOTitle: IceTea Blog | IceTea Blog
+SEOTitle: IceTea Blog | 振海的博客
 header-img: img/Summertime.jpg
 email: icetea523@qq.com
 description: "12345上山打老虎"
@@ -11,8 +11,8 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "说点装逼的话"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "业精于勤荒于嬉"
+sidebar-avatar: /img/avatar_icetea.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
